@@ -1,16 +1,14 @@
-## Hi there 👋
+# YAML 编辑矫正工具
 
-<!--
-**gastbychen/gastbychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个在线 YAML 编辑器，支持格式化、表格数据导入和自动填充功能。
 
-Here are some ideas to get you started:
+## 功能特点
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- YAML 格式化和修正
+- Excel 表格数据导入
+- 多行数据匹配填充
+- 自动错误检测和修复
+
+## 使用方法
+
+访问 https://你的用户名.github.io/yaml-editor/ 
